@@ -167,12 +167,12 @@ BLACK="\033[1;30m"
 EXTRA ='\x1b[38;5;208m'
 
 logo=(f"""{WHITE}
-\033[1;37m d8888b.  .d8b.  db   dD d888888b d888888b  .d8b.  db   d8b   db  .d8b.  db      
- \033[1;34m88  `8D d8' `8b 88 ,8P' `~~88~~'   `88'   d8' `8b 88   I8I   88 d8' `8b 88      
- \033[1;35m88oodD' 88ooo88 88,8P      88       88    88ooo88 88   I8I   88 88ooo88 88      
+\033[1;35m d8888b.  .d8b.  db   dD d888888b d888888b  .d8b.  db   d8b   db  .d8b.  db      
+ \033[1;33m88  `8D d8' `8b 88 ,8P' `~~88~~'   `88'   d8' `8b 88   I8I   88 d8' `8b 88      
+ \033[1;32m88oodD' 88ooo88 88,8P      88       88    88ooo88 88   I8I   88 88ooo88 88      
  \033[1;32m88~~~   88~~~88 88`8b      88       88    88~~~88 Y8   I8I   88 88~~~88 88      
- \033[1;35m88      88   88 88 `88.    88      .88.   88   88 `8b d8'8b d8' 88   88 88booo. 
- \033[1;34m88      YP   YP YP   YD    YP    Y888888P YP   YP  `8b8' `8d8'  YP   YP Y88888P 
+ \033[1;33m88      88   88 88 `88.    88      .88.   88   88 `8b d8'8b d8' 88   88 88booo. 
+ \033[1;35m88      YP   YP YP   YD    YP    Y888888P YP   YP  `8b8' `8d8'  YP   YP Y88888P 
 \033[1;37m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 {GREEN}[⍣]{WHITE} OWNER        :  {GREEN}NAQIB PAKTIAWAL 
 {GREEN}[⍣]{WHITE} FaceBook     :  {GREEN}PAKTIAWAL KING 
