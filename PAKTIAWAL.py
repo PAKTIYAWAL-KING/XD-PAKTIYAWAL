@@ -168,16 +168,17 @@ EXTRA ='\x1b[38;5;208m'
 
 logo=(f"""{WHITE}
   \033[1;35mO))             O))       O)))     O))             O)       
- \033[1;34mO))             O))       O) O))   O))            O) ))     
+\033[1;34mO))             O))       O) O))   O))            O) ))     
  \033[1;33mO))             O))       O)) O))  O))           O)  O))    
  \033[1;32mO))             O))       O))  O)) O))          O))   O))   
  \033[1;33mO))             O))       O))   O) O))         O)))))) O))  
  \033[1;34mO))             O))       O))    O) ))        O))       O)) 
  \033[1;35mO))))))))       O))       O))      O))       O))         O))
-\033[1;37m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━""")
-\x1b[1;92m {XX}[\x1b[1;92m⍣{XX}]\x1b[38;5;46m AUTHOR    : Naqib Paktiawal            
-\x1b[1;92m {XX}[\x1b[1;92m⍣{XX}] \x1b[38;5;47mFACEBOOK  : Paktiawal king           
-\x1b[1;92m {XX}[\x1b[1;92m⍣{XX}] \x1b[38;5;48mGITHUB    : PAKISTAN-KING            
+\033[1;34m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━') 
+{GREEN}[•]{WHITE} OWNER        :  {GREEN}NAQIB PAKTIAWAL 
+{GREEN}[•]{WHITE} FaceBook     :  {GREEN}PAKTIAWAL KING 
+{GREEN}[•]{WHITE} Version      :   {GREEN}1.5
+{GREEN}[•]{WHITE} TOOL STATUS. :  {RED}FREE  
 \033[1;37m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━""")
 def linex():
     print('\033[1;37m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━')
