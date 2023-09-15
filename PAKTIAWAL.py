@@ -174,7 +174,7 @@ logo=(f"""{WHITE}
  \033[1;33mO))             O))       O))   O) O))         O)))))) O))  
  \033[1;34mO))             O))       O))    O) ))        O))       O)) 
  \033[1;35mO))))))))       O))       O))      O))       O))         O))
-{G}⋆{GGG}━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━{G}⋆
+\033[1;37m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━""")
 \x1b[1;92m {XX}[\x1b[1;92m⍣{XX}]\x1b[38;5;46m AUTHOR    : Naqib Paktiawal            
 \x1b[1;92m {XX}[\x1b[1;92m⍣{XX}] \x1b[38;5;47mFACEBOOK  : Paktiawal king           
 \x1b[1;92m {XX}[\x1b[1;92m⍣{XX}] \x1b[38;5;48mGITHUB    : PAKISTAN-KING            
