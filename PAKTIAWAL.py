@@ -167,21 +167,20 @@ BLACK="\033[1;30m"
 EXTRA ='\x1b[38;5;208m'
 
 logo=(f"""{WHITE}
-  \033[1;35mO))             O))       O)))     O))             O)       
-\033[1;34mO))             O))       O) O))   O))            O) ))     
- \033[1;33mO))             O))       O)) O))  O))           O)  O))    
- \033[1;32mO))             O))       O))  O)) O))          O))   O))   
- \033[1;33mO))             O))       O))   O) O))         O)))))) O))  
- \033[1;34mO))             O))       O))    O) ))        O))       O)) 
- \033[1;35mO))))))))       O))       O))      O))       O))         O))
-\033[1;34m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━') 
-{GREEN}[•]{WHITE} OWNER        :  {GREEN}NAQIB PAKTIAWAL 
-{GREEN}[•]{WHITE} FaceBook     :  {GREEN}PAKTIAWAL KING 
-{GREEN}[•]{WHITE} Version      :   {GREEN}1.5
-{GREEN}[•]{WHITE} TOOL STATUS. :  {RED}FREE  
-\033[1;37m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━""")
+\033[1;37m d8888b.  .d8b.  db   dD d888888b d888888b  .d8b.  db   d8b   db  .d8b.  db      
+ \033[1;34m88  `8D d8' `8b 88 ,8P' `~~88~~'   `88'   d8' `8b 88   I8I   88 d8' `8b 88      
+ \033[1;35m88oodD' 88ooo88 88,8P      88       88    88ooo88 88   I8I   88 88ooo88 88      
+ \033[1;32m88~~~   88~~~88 88`8b      88       88    88~~~88 Y8   I8I   88 88~~~88 88      
+ \033[1;35m88      88   88 88 `88.    88      .88.   88   88 `8b d8'8b d8' 88   88 88booo. 
+ \033[1;34m88      YP   YP YP   YD    YP    Y888888P YP   YP  `8b8' `8d8'  YP   YP Y88888P 
+\033[1;37m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+{GREEN}[⍣]{WHITE} OWNER        :  {GREEN}NAQIB PAKTIAWAL 
+{GREEN}[⍣]{WHITE} FaceBook     :  {GREEN}PAKTIAWAL KING 
+{GREEN}[⍣]{WHITE} Version      :  {GREEN}1.5
+{GREEN}[⍣]{WHITE} TOOL STATUS. :  {RED}FREE  
+\033[1;37m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━""")
 def linex():
-    print('\033[1;37m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━')
+    print('\033[1;37m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━')
 
 def clear():
         os.system('clear')
@@ -280,7 +279,7 @@ def menu():
 def pak():
                 user=[]
                 clear()
-                print('\033[1;31m CODE EXAMPLE : 0306,0315,0335,0345')
+                print('\033[1;31m CODE EXAMPLE : 077,078,0335,0345')
                 code = input('\033[1;37m PUT CODE: ')
                 try:
                         limit = int(input('\033[1;31m EXAMPLE : 2000, 3000, 5000, 10000\n\033[1;37m PUT LIMIT : '))
